@@ -1,0 +1,77 @@
+.post{
+    box-shadow: 0 1px 5px #8c8c8c;
+    background: white;
+    margin-bottom: 1em;
+    border-radius: 3px;
+    overflow: hidden;
+    &__header{
+        padding: 1em;
+    }
+    &__content{
+        padding: 1em;
+    }
+    &__avatar{
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-right: 1em;
+    }
+    &__media{
+        width: 250px;
+        position: relative;
+        cursor: pointer;
+        &_overlay{
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(0,0,0,0.57);
+            color: white;
+        }
+    }
+}
+#postForm{
+    textarea{
+        resize: none;
+        padding: 1.5em;
+        &:focus{
+            outline: none;
+            border: 1px solid $blue;
+        }
+    }
+}
+.post-form{
+    border-radius: 5px;
+    margin-bottom: 2em;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+    overflow: hidden;
+    &__header,&__footer{
+        background: $lightgrey;
+        padding: 0.5em;
+    }
+}
+.slider{
+    width: 100%;
+    &__nav{
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        font-size: 3rem;
+        color: white;
+        height: 1.4em;
+        text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.6);
+        &--prev{
+            left: 0;
+        }
+        &--next{
+            right: 0;
+        }
+    }
+    &__slide{
+        width: 100%;
+    }
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="bell" unicode="&#xe800;" d="M632 426q16-34 40-52t45-22 44-23 35-55q22-62-74-161t-252-157q-164-58-297-45t-155 75q-20 54 12 111t18 111q-56 192-47 300t113 192q26 22 29 51t29 39q24 8 46-12t56-18q132 2 198-66t160-268z m-186-404q88 32 159 85t100 91 25 50q-8 22-49 33t-124 1-187-48q-102-38-173-87t-94-84-17-53q4-12 50-22t134-4 176 38z m-62 174q8 2 21 7t17 7l2-2q14-40-17-83t-89-63q-96-36-152 14 78 68 218 120z" horiz-adv-x="800" />
+
+<glyph glyph-name="down" unicode="&#xe801;" d="M63 570l370-356 372 356q22 26 48 0 26-22 0-48l-396-392q-22-22-48 0l-396 392q-26 26 0 48 24 24 50 0z" horiz-adv-x="866" />
+
+<glyph glyph-name="up" unicode="&#xe802;" d="M804 130l-372 358-370-358q-26-22-50 0-24 24 0 50l396 390q26 26 48 0l396-390q24-26 0-50-26-22-48 0z" horiz-adv-x="864" />
+
+<glyph glyph-name="search" unicode="&#xe803;" d="M772 78q30-34 6-62l-46-46q-36-32-68 0l-190 190q-74-42-156-42-128 0-223 95t-95 223 90 219 218 91 224-95 96-223q0-88-46-162z m-678 358q0-88 68-156t156-68 151 63 63 153q0 88-68 155t-156 67-151-63-63-151z" horiz-adv-x="789" />
+
+<glyph glyph-name="thumbs-up" unicode="&#xe804;" d="M0-63l0 552q0 16 10 25t25 11l147 0q33 0 35-36l0-552q0-14-10-24t-25-12l-147 0q-13 0-23 10t-12 26z m277 27l0 500q0 22 14 35t37 16l113 0 114 252q13 31 41 31 37 2 93-61 18-25 25-55t6-48-9-64-10-55l248 0q26 0 38-17t11-44l-70-429q-12-42-53-74t-88-38l-459 0q-21 0-35 14t-16 37z" horiz-adv-x="998" />
+
+<glyph glyph-name="right" unicode="&#xe805;" d="M13-20l358 370-358 372q-26 26 0 48 26 26 48 0l392-394q24-26 0-50l-392-394q-22-26-48 0-26 22 0 48z" horiz-adv-x="465" />
+
+<glyph glyph-name="left" unicode="&#xe806;" d="M452-20q26-26 0-48-26-26-48 0l-392 394q-24 24 0 50l392 394q22 26 48 0 26-22 0-48l-358-372z" horiz-adv-x="465" />
+
+<glyph glyph-name="ok" unicode="&#xe809;" d="M875 588l-535-600-340 338 123 124 196-195 420 457z" horiz-adv-x="875" />
+</font>
+</defs>
+</svg>
